@@ -1,5 +1,9 @@
 # OpenCV Face detection:
 
+![](https://raw.githubusercontent.com/georgecristian97/Logo/main/logo/pycharm-logo.png)![](https://raw.githubusercontent.com/georgecristian97/Logo/main/logo/OpenCV-logo.png)![](https://raw.githubusercontent.com/georgecristian97/Logo/main/logo/python-logo.png)
+
+
+
 :hammer:Edit with:
 
 [Download PyCharm: Python IDE for Professional Developers by JetBrains](https://www.jetbrains.com/pycharm/download/#section=windows)
@@ -10,7 +14,7 @@
 
 pip install wheel
 
-pip install opencv-python
+ßpip install opencv-python
 
 pip install numpy==1.19.3 (if last version is not compatible)
 
