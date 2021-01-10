@@ -14,7 +14,7 @@
 
 pip install wheel
 
-ßpip install opencv-python
+pip install opencv-python
 
 pip install numpy==1.19.3 (if last version is not compatible)
 
